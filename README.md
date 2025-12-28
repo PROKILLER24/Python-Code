@@ -14,13 +14,7 @@ Analyze the Sharpe Ratio to determine the value that maximizes 1-Year Return (%)
 
 Note: A synthetic dataset was created for demonstration purposes.
 
-Folder Structure
-/Tradexa_Assignment
-│
-├─ Tradexa_Assignment.ipynb   # Jupyter Notebook with full analysis
-├─ Tradexa_Assignment.pdf      # PDF export of the notebook
-├─ fund_data.csv               # Sample dataset used
-└─ README.md                  # This file
+
 
 Environment Setup
 
